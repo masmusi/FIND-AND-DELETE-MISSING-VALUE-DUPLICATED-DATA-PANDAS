@@ -4,6 +4,7 @@ Simple way how to find and delete missing value and duplicated data using Jupyte
 -------------------------- FIND / DELETE MISSING VALUE ---------------------------------------------------------
 
 Step 1. Save data with name 'Admission_data.csv'
+
 ![image](https://user-images.githubusercontent.com/108322484/176373706-84dfc5ba-114e-4059-8968-0bbd0ac06430.png)
 
 Step 2. import pandas library and read file 'Admission_data.csv'
