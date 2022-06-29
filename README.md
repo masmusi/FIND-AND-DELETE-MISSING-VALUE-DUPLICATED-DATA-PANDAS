@@ -34,6 +34,7 @@ Step 2. Delete duplicated value in data with code :
 data = data.drop_duplicates()
 
 Step 3. Finaly, duplicated value has deleted
+
 ![image](https://user-images.githubusercontent.com/108322484/176375744-520dbf56-151d-454e-ac44-19a1f5b29bab.png)
 
 Noted :
